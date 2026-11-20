@@ -1,3 +1,5 @@
+![CT DIGITAL GROUP — Colin Tandy](./assets/ctdg-banner.svg)
+
 <div align="center">
 
 # Colin Tandy
