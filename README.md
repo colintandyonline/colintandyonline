@@ -53,6 +53,8 @@ Some source repositories are private while the products and operational systems 
 
 **[Deepmind Resources](https://github.com/colintandyonline/Deepmind-Resources)** — An AI learning and resources project. Further development planned.
 
+**[Axiom Architect](https://github.com/colintandyonline/Axiom-Architect)** — An AI-powered workflow architecture project turning complex business processes into diagnostics, automation opportunities and practical implementation blueprints. Further development planned.
+
 ---
 
 <div align="center">
