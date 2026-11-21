@@ -1,4 +1,4 @@
-![CT DIGITAL GROUP — Colin Tandy](./assets/ctdg-banner.svg)
+![CT DIGITAL GROUP — Colin Tandy](./assets/ctdg-banner.png)
 
 <div align="center">
 
