@@ -1,4 +1,4 @@
-![CT DIGITAL GROUP — Colin Tandy](./assets/ctdg-banner.png)
+![CT DIGITAL GROUP — Colin Tandy](./assets/ctdg-horizons-approved-20261121.png)
 
 <div align="center">
 
