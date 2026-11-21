@@ -34,6 +34,22 @@ My focus is on agents that can understand a goal, work through real systems, mai
 
 Some source repositories are private while the products and operational systems mature. I'm showcasing the work and verified milestones without exposing client data or private infrastructure.
 
+### Experience our live CTDG demos
+
+The best way to see what we're building is to try it. These public experiences are hosted by CT DIGITAL GROUP and are accessible without opening our private source repositories.
+
+| Experience | Try it |
+|:--|:--|
+| **Cora Guided Tour** — explore our connected AI business services | [Start guided tour](https://ctdigital.group/interactive/services-tour) |
+| **AI Receptionist Demo** — conversational front-desk scenarios and enquiry intake | [Meet the receptionist](https://ctdigital.group/interactive/ai-receptionist) |
+| **Workflow Automation Demo** — sample business workflows, from bookings to onboarding | [Explore workflows](https://ctdigital.group/interactive/workflow-starter) |
+| **Lead Follow-Up Demo** — qualification, routing and human-reviewed follow-up examples | [See lead follow-up](https://ctdigital.group/interactive/lead-follow-up) |
+| **Multilingual Voice Library** — hear voice samples and choose identity and language preferences | [Listen to the voices](https://ctdigital.group/voice-library) |
+
+**[See pricing and managed care](https://ctdigital.group/pricing)** · **[Enquire about a project](https://ctdigital.group/contact)**
+
+These are interactive demonstrations, not promises of particular live third-party integrations or client outcomes. Implementation scope and supported providers are confirmed for each engagement.
+
 ### How I build
 
 - **Outcome first.** Tell an assistant what to achieve—not which buttons to press.
@@ -47,6 +63,8 @@ Some source repositories are private while the products and operational systems 
 **[CT DIGITAL GROUP — website](https://ctdigital.group/)**
 
 **[Meet Cora — AI receptionist](https://ctdigital.group/blog/meet-cora-ai-receptionist)**
+**[Try the CTDG interactive demos](https://ctdigital.group/interactive/services-tour)**
+
 ### Public project showcases
 
 **[TrailTrade.live](https://github.com/colintandyonline/trailtrade.live)** — A live-stream marketplace project for second-hand outdoor, camping, hiking and overlanding gear in the UK and USA. Further development planned.
