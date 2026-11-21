@@ -1,14 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="CT DIGITAL GROUP founder Colin Tandy">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071526"/><stop offset=".5" stop-color="#0d263f"/><stop offset="1" stop-color="#071421"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#11b5f5" stop-opacity=".35"/><stop offset="1" stop-color="#11b5f5" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#79e6ff"/><stop offset="1" stop-color="#1682ba"/></linearGradient><pattern id="stars" patternUnits="userSpaceOnUse" width="32" height="32"><circle cx="3" cy="3" r=".9" fill="#67bde5" opacity=".28"/></pattern></defs>
-<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#stars)"/><circle cx="955" cy="158" r="240" fill="url(#glow)"/>
-<path d="M55 42 V275" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
-<text x="88" y="83" fill="#76dfff" font-family="Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="3.5">CT DIGITAL GROUP / FOUNDER</text>
-<text x="87" y="155" fill="#f1faff" font-family="Arial, sans-serif" font-size="58" font-weight="bold" letter-spacing="2">COLIN TANDY</text>
-<path d="M90 174 H595" stroke="url(#line)" stroke-width="2" opacity=".7"/>
-<text x="90" y="218" fill="#b7dceb" font-family="Arial, sans-serif" font-size="22">Practical AI. Useful systems. Real work.</text>
-<text x="91" y="266" fill="#67bedc" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">AI AGENTS  /  AUTOMATION  /  INFRASTRUCTURE</text>
-<g stroke="#3eafd8" fill="none" stroke-width="1.8" opacity=".68"><circle cx="985" cy="160" r="99"/><circle cx="985" cy="160" r="134" stroke-dasharray="4 11"/><path d="M871 93 L985 61 L1089 103 L1126 195 L1020 264 L904 244 L852 180 Z"/><path d="M871 93 L985 160 L1089 103 M852 180 L985 160 L1126 195 M904 244 L985 160 L1020 264"/></g>
-<g fill="#6cddfa"><circle cx="871" cy="93" r="5"/><circle cx="985" cy="61" r="5"/><circle cx="1089" cy="103" r="5"/><circle cx="1126" cy="195" r="5"/><circle cx="1020" cy="264" r="5"/><circle cx="904" cy="244" r="5"/><circle cx="852" cy="180" r="5"/></g>
-<circle cx="985" cy="160" r="44" fill="#0d4365" stroke="#69dcff" stroke-width="2.4"/><path d="M967 161 L981 175 L1006 149" stroke="#83f1ff" fill="none" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="1.5" y="1.5" width="1197" height="317" rx="22" stroke="#51b3e1" stroke-opacity=".38" stroke-width="3" fill="none"/>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061424"/><stop offset=".57" stop-color="#0A2239"/><stop offset="1" stop-color="#06182B"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#05D2EC"/><stop offset=".57" stop-color="#41C5FC"/><stop offset="1" stop-color="#0A7CB5"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#103553" stop-opacity=".91"/><stop offset="1" stop-color="#08192B" stop-opacity=".92"/></linearGradient>
+<radialGradient id="glow" cx=".77" cy=".42" r=".63"><stop stop-color="#147CC0" stop-opacity=".23"/><stop offset="1" stop-color="#147CC0" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#6CB7E0" stroke-opacity=".07" stroke-width=".8"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+<path d="M18 18H1182V302H18Z" fill="none" stroke="#59B9E9" stroke-opacity=".19"/>
+<path d="M52 39H133" stroke="#06D2EE" stroke-width="4"/>
+<text x="52" y="85" fill="#73DFF6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3.1">COLIN TANDY / FOUNDER</text>
+<text x="50" y="146" fill="#F4FBFF" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="800" letter-spacing="1.5">CT DIGITAL</text>
+<text x="50" y="207" fill="#11D4EE" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="1.5">GROUP</text>
+<path d="M52 229H542" stroke="url(#cyan)" stroke-width="2" stroke-opacity=".8"/>
+<text x="52" y="257" fill="#C3DBE9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="500" letter-spacing="1.3">PRACTICAL AI / AUTOMATION / DIGITAL SYSTEMS</text>
+<text x="52" y="283" fill="#8CAFC6" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.2">UK-OPERATED · BUILT FOR REAL WORK</text>
+<path d="M634 43V278" stroke="#57BFE7" stroke-opacity=".21"/>
+<rect x="682" y="51" width="456" height="217" rx="12" fill="url(#panel)" stroke="#2A8DBE" stroke-opacity=".39"/>
+<text x="711" y="80" fill="#7BAFCB" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2.2">CAPABILITY AREAS</text>
+<path d="M711 90H1108" stroke="#3AA2D2" stroke-opacity=".3"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#E3F6FF">
+<text x="738" y="125">AI reception</text>
+<text x="738" y="169">Workflow automation</text>
+<text x="738" y="213">Digital platforms</text>
+<text x="738" y="253">Infrastructure</text>
+</g>
+<g stroke="#2EC9F2" stroke-width="1.6" fill="none" stroke-opacity=".75">
+<circle cx="717" cy="120" r="5"/><circle cx="717" cy="164" r="5"/><circle cx="717" cy="208" r="5"/><circle cx="717" cy="248" r="5"/>
+<path d="M717 126V158M717 170V202M717 214V242"/>
+</g>
+<g stroke="#2AADE3" fill="none" stroke-opacity=".43">
+<path d="M1029 105h56l15 15m-71 29h69l16 16m-85 27h56l15 15m-71 26h69" stroke-width="1.6"/>
+<circle cx="1029" cy="105" r="3" fill="#2FCBFE"/><circle cx="1099" cy="120" r="3" fill="#2FCBFE"/>
+<circle cx="1029" cy="149" r="3" fill="#2FCBFE"/><circle cx="1114" cy="165" r="3" fill="#2FCBFE"/>
+<circle cx="1029" cy="192" r="3" fill="#2FCBFE"/><circle cx="1100" cy="207" r="3" fill="#2FCBFE"/>
+<circle cx="1029" cy="233" r="3" fill="#2FCBFE"/>
+</g>
+<path d="M698 281H1124" stroke="#12BEEA" stroke-width="2" stroke-opacity=".66"/>
+<rect width="1200" height="320" rx="18" fill="none" stroke="#5FBDE9" stroke-opacity=".17" stroke-width="2"/>
 </svg>
