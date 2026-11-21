@@ -47,6 +47,11 @@ Some source repositories are private while the products and operational systems 
 **[CT DIGITAL GROUP — website](https://ctdigital.group/)**
 
 **[Meet Cora — AI receptionist](https://ctdigital.group/blog/meet-cora-ai-receptionist)**
+### Public project showcases
+
+**[TrailTrade.live](https://github.com/colintandyonline/trailtrade.live)** — A live-stream marketplace project for second-hand outdoor, camping, hiking and overlanding gear in the UK and USA. Further development planned.
+
+**[Deepmind Resources](https://github.com/colintandyonline/Deepmind-Resources)** — An AI learning and resources project. Further development planned.
 
 ---
 
