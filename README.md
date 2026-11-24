@@ -31,8 +31,15 @@ My focus is on agents that can understand a goal, work through real systems, mai
 | **CTDG Managed AI Platform** | Multi-tenant platform for managed AI operations, client workspaces and operator control | Active development |
 | **Cora** | CTDG's conversational AI receptionist for voice enquiries and lead capture | Live on our website; ongoing improvements |
 | **Digital Bookshelf** | Digital publishing, commerce and content operations | Active business |
+| **KayaCart** | International-first Android household intelligence: shopping, meal planning, budgets, pantry and conversational assistance | Private inspection development |
 
 Some source repositories are private while the products and operational systems mature. I'm showcasing the work and verified milestones without exposing client data or private infrastructure.
+
+### Agent interoperability and open-source development
+
+Our development work includes MCP tool integration and A2A agent-to-agent communication, with scoped permissions, task isolation and a synthetic-data test lab. KayaCart is being designed around managed AI by default, optional personal AI providers and future external agent connections. These are development milestones, not a claim of production availability.
+
+I maintain public upstream forks for research and integration testing, including the [A2A SDK](https://github.com/colintandyonline/a2a-js), [MCP TypeScript SDK](https://github.com/colintandyonline/typescript-sdk), [Goose](https://github.com/colintandyonline/goose), [Agno](https://github.com/colintandyonline/agno) and [Eve](https://github.com/colintandyonline/eve). Original projects and upstream work remain clearly distinguished; private product code stays private.
 
 ### Experience our live CTDG demos
 
