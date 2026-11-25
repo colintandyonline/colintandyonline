@@ -44,6 +44,7 @@ We maintain public source showcases alongside private canonical development repo
 | Explore | Direct access |
 | --- | --- |
 | Product portfolio | [Engineering and innovation showcase](https://colintandyonline.github.io/#projects) |
+| Public development roadmap | [Milestones, verified dates and project progress](https://colintandyonline.github.io/roadmap.html) ([GitHub roadmap](https://github.com/users/colintandyonline/projects/11)) |
 | Engineering articles | [CTDG Engineering Notes](https://colintandyonline.github.io/#community) |
 | Sponsorship | [Five monthly sponsorship options](https://colintandyonline.github.io/#sponsorship) |
 | Community | [Join the conversation](https://github.com/colintandyonline/colintandyonline/discussions) |
