@@ -37,16 +37,16 @@ We maintain public source showcases alongside private canonical development repo
 
 ### CTDG engineering website and community
 
-[![Engineering Showcase](https://img.shields.io/badge/ENGINEERING-Explore_our_portfolio-12B7E8?style=for-the-badge&labelColor=0A1525)](https://colintandyonline.github.io/)
+[![Engineering Showcase](https://img.shields.io/badge/ENGINEERING-Explore_our_portfolio-12B7E8?style=for-the-badge&labelColor=0A1525)](https://engineering.ctdigital.group/)
 [![Community](https://img.shields.io/badge/COMMUNITY-Join_the_discussion-3178C6?style=for-the-badge&labelColor=0A1525)](https://github.com/colintandyonline/colintandyonline/discussions)
 [![Sponsor](https://img.shields.io/badge/SPONSOR-Support_our_work-DB61A2?style=for-the-badge&labelColor=0A1525)](https://github.com/sponsors/colintandyonline)
 
 | Explore | Direct access |
 | --- | --- |
-| Product portfolio | [Engineering and innovation showcase](https://colintandyonline.github.io/#projects) |
-| Public development roadmap | [Milestones, verified dates and project progress](https://colintandyonline.github.io/roadmap.html) ([GitHub roadmap](https://github.com/users/colintandyonline/projects/11)) |
-| Engineering articles | [CTDG Engineering Notes](https://colintandyonline.github.io/#community) |
-| Sponsorship | [Five monthly sponsorship options](https://colintandyonline.github.io/#sponsorship) |
+| Product portfolio | [Engineering and innovation showcase](https://engineering.ctdigital.group/projects/) |
+| Public development roadmap | [Milestones, verified dates and project progress](https://engineering.ctdigital.group/roadmap.html) ([GitHub roadmap](https://github.com/users/colintandyonline/projects/11)) |
+| Engineering articles | [CTDG Engineering Notes](https://engineering.ctdigital.group/#community) |
+| Sponsorship | [Five monthly sponsorship options](https://engineering.ctdigital.group/#sponsorship) |
 | Community | [Join the conversation](https://github.com/colintandyonline/colintandyonline/discussions) |
 | Direct enquiries | [colin@ctdigital.group](mailto:colin@ctdigital.group) |
 
@@ -109,7 +109,7 @@ Seven public source repositories, including our six pinned flagship projects. Se
 | **DeepMind Resources** | Practical AI learning, Academy lessons and hands-on resources. Live, active development. | [Learning platform](https://v0-ai-learning-platform-nine-henna.vercel.app) · [Source](https://github.com/colintandyonline/Deepmind-Resources) |
 | **TrailTrade** | Live-stream marketplace for second-hand outdoor and adventure gear. Live, active development. | [Marketplace](https://trailtrade-live.vercel.app) · [Source showcase](https://github.com/colintandyonline/TrailTrade-Public) |
 
-**[Explore the complete engineering portfolio](https://colintandyonline.github.io/#projects)**
+**[Explore the complete engineering portfolio](https://engineering.ctdigital.group/projects/)**
 
 Public showcase repositories contain reviewed source selections, not full production systems. The canonical private repositories remain the sole development sources. Public updates record the approved source commit and pass automated secret scanning. Command Centre and Managed AI remain private operational projects.
 
