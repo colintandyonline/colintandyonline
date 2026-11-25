@@ -31,9 +31,9 @@ My focus is on agents that can understand a goal, work through real systems, mai
 | **CTDG Managed AI Platform** | Multi-tenant platform for managed AI operations, client workspaces and operator control | Active development |
 | **Cora** | CTDG's conversational AI receptionist for voice enquiries and lead capture | Live on our website; ongoing improvements |
 | **Digital Bookshelf** | Digital publishing, commerce and content operations | Active business |
-| **KayaCart** | International-first Android household intelligence: shopping, meal planning, budgets, pantry and conversational assistance | Private inspection development |
+| **KayaCart** | International-first Android household intelligence: shopping, meal planning, budgets, pantry and conversational assistance | Active Android development; public source showcase |
 
-Some source repositories are private while the products and operational systems mature. I'm showcasing the work and verified milestones without exposing client data or private infrastructure.
+We maintain public source showcases alongside private canonical development repositories. Our public portfolio includes live products, interactive demonstrations and active development projects, without exposing client data or private infrastructure.
 
 ### CTDG engineering website and community
 
@@ -96,21 +96,21 @@ These are interactive demonstrations, not promises of particular live third-part
 
 ### Public project showcases
 
-**[TrailTrade.live](https://github.com/colintandyonline/trailtrade.live)** — A live-stream marketplace project for second-hand outdoor, camping, hiking and overlanding gear in the UK and USA. Further development planned.
+Seven public source repositories, including our six pinned flagship projects. Selected-source editions are maintained from their canonical private development repositories.
 
-**[Deepmind Resources](https://github.com/colintandyonline/Deepmind-Resources)** — An AI learning and resources project. Further development planned.
+| Project | What we're showcasing | Access |
+| --- | --- | --- |
+| **CTDG Website & Cora** | Corporate website, AI receptionist and connected business services. Live, actively improved. | [Website](https://ctdigital.group/) · [Source](https://github.com/colintandyonline/CTDG-Website) |
+| **Interactive Demos** | AI receptionist, workflow automation, lead follow-up, guided tours and voice experiences. Live demonstrations; selected source available. | [Try demos](https://ctdigital.group/interactive/services-tour) · [Source showcase](https://github.com/colintandyonline/CTDG-Interactive-Demos-Public) |
+| **KayaCart** | Native Kotlin Android household intelligence, shopping, budgeting and meal planning. Active development. | [Source showcase](https://github.com/colintandyonline/KayaCart-Public) |
+| **Gandalf Mobile** | Voice-led Android assistant, task execution and personal assistance. Active development. | [Source showcase](https://github.com/colintandyonline/Gandalf-Mobile-Public) |
+| **Axiom Architect** | AI-powered workflow architecture, diagnostics and automation blueprints. Live, active development. | [Website](https://www.axiom-architect.co/) · [Source](https://github.com/colintandyonline/Axiom-Architect) |
+| **DeepMind Resources** | Practical AI learning, Academy lessons and hands-on resources. Live, active development. | [Learning platform](https://v0-ai-learning-platform-nine-henna.vercel.app) · [Source](https://github.com/colintandyonline/Deepmind-Resources) |
+| **TrailTrade** | Live-stream marketplace for second-hand outdoor and adventure gear. Live, active development. | [Marketplace](https://trailtrade-live.vercel.app) · [Source showcase](https://github.com/colintandyonline/TrailTrade-Public) |
 
-**[Axiom Architect](https://github.com/colintandyonline/Axiom-Architect)** — An AI-powered workflow architecture project turning complex business processes into diagnostics, automation opportunities and practical implementation blueprints. Further development planned.
+**[Explore the complete engineering portfolio](https://colintandyonline.github.io/#projects)**
 
----
-
-<div align="center">
-
-**Building. Testing. Improving.**
-
-<sub>Public work where practical · Private code and sensitive systems stay private</sub>
-
-</div>
+Public showcase repositories contain reviewed source selections, not full production systems. The canonical private repositories remain the sole development sources. Public updates record the approved source commit and pass automated secret scanning. Command Centre and Managed AI remain private operational projects.
 
 <!-- CTDG-TECH-START -->
 ## Technology stack
@@ -133,3 +133,13 @@ Technologies used in this project.
 | Command Centre | ![JavaScript](https://img.shields.io/badge/JavaScript-B49B00?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-539E43?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell&logoColor=white) |
 | Managed AI | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-596579?style=flat-square) |
 <!-- CTDG-TECH-END -->
+
+---
+
+<div align="center">
+
+**Building. Testing. Improving.**
+
+<sub>Public work where practical · Private code and sensitive systems stay private</sub>
+
+</div>
