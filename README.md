@@ -35,6 +35,14 @@ My focus is on agents that can understand a goal, work through real systems, mai
 
 Some source repositories are private while the products and operational systems mature. I'm showcasing the work and verified milestones without exposing client data or private infrastructure.
 
+### Engineering intelligence
+
+[![CTDG public development intelligence - repository portfolio and language distribution](./assets/ctdg-engineering-intelligence.svg)](https://github.com/colintandyonline?tab=repositories)
+
+**[Explore public repositories](https://github.com/colintandyonline?tab=repositories)** · **[CTDG live demonstrations](https://ctdigital.group/interactive/services-tour)**
+
+<sub>Verified public GitHub snapshot, 25 November 2026. Original repositories and upstream research forks are counted separately. Private operational metrics are excluded.</sub>
+
 ### Agent interoperability and open-source development
 
 Our development work includes MCP tool integration and A2A agent-to-agent communication, with scoped permissions, task isolation and a synthetic-data test lab. KayaCart is being designed around managed AI by default, optional personal AI providers and future external agent connections. These are development milestones, not a claim of production availability.
