@@ -35,6 +35,20 @@ My focus is on agents that can understand a goal, work through real systems, mai
 
 Some source repositories are private while the products and operational systems mature. I'm showcasing the work and verified milestones without exposing client data or private infrastructure.
 
+### CTDG engineering website and community
+
+[![Engineering Showcase](https://img.shields.io/badge/ENGINEERING-Explore_our_portfolio-12B7E8?style=for-the-badge&labelColor=0A1525)](https://colintandyonline.github.io/)
+[![Community](https://img.shields.io/badge/COMMUNITY-Join_the_discussion-3178C6?style=for-the-badge&labelColor=0A1525)](https://github.com/colintandyonline/colintandyonline/discussions)
+[![Sponsor](https://img.shields.io/badge/SPONSOR-Support_our_work-DB61A2?style=for-the-badge&labelColor=0A1525)](https://github.com/sponsors/colintandyonline)
+
+| Explore | Direct access |
+| --- | --- |
+| Product portfolio | [Engineering and innovation showcase](https://colintandyonline.github.io/#projects) |
+| Engineering articles | [CTDG Engineering Notes](https://colintandyonline.github.io/#community) |
+| Sponsorship | [Five monthly sponsorship options](https://colintandyonline.github.io/#sponsorship) |
+| Community | [Join the conversation](https://github.com/colintandyonline/colintandyonline/discussions) |
+| Direct enquiries | [colin@ctdigital.group](mailto:colin@ctdigital.group) |
+
 ### Engineering intelligence
 
 [![CTDG public development intelligence - repository portfolio and language distribution](./assets/ctdg-engineering-intelligence.svg)](https://github.com/colintandyonline?tab=repositories)
