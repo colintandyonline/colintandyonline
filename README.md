@@ -111,22 +111,3 @@ These are interactive demonstrations, not promises of particular live third-part
 <sub>Public work where practical · Private code and sensitive systems stay private</sub>
 
 </div>
-<!-- CTDG-ENGINEERING-START -->
-## CTDG engineering intelligence
-
-![CTDG](https://img.shields.io/badge/CTDG-17466c?style=flat-square) ![ai-engineering](https://img.shields.io/badge/ai--engineering-17466c?style=flat-square) ![github-profile](https://img.shields.io/badge/github--profile-17466c?style=flat-square) ![portfolio](https://img.shields.io/badge/portfolio-17466c?style=flat-square)
-
-![Repository statistics](./assets/ctdg-repository-intelligence.svg)
-
-| Repository detail | Verified snapshot |
-| --- | --- |
-| Primary language | Unclassified |
-| Repository stars | 1 |
-| Forks | 0 |
-| Open pull requests | 0 |
-| Data date (UTC) | 2026-11-25 |
-
-[CT DIGITAL GROUP](https://ctdigital.group/) · [Repository activity](https://github.com/colintandyonline/colintandyonline/activity) · [Pull requests](https://github.com/colintandyonline/colintandyonline/pulls)
-
-Statistics are a point-in-time GitHub snapshot, not an indication of release readiness.
-<!-- CTDG-ENGINEERING-END -->
