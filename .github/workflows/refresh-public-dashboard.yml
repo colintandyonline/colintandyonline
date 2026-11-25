@@ -1,0 +1,27 @@
+name: Refresh public engineering dashboard
+on:
+  schedule:
+    - cron: '23 6 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-engineering-dashboard
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out portfolio
+        uses: actions/checkout@v4
+      - name: Refresh public statistics
+        run: python3 scripts/refresh_public_dashboard.py
+      - name: Commit only the public chart
+        run: |
+          git add assets/ctdg-engineering-intelligence.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh public engineering dashboard"
+          git push
